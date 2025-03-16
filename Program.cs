@@ -1,5 +1,3 @@
-﻿using System.Globalization;
-
 double valorDolar = 0.0, cotação= 0.0, valorReal = 0.0;
 
 Console.Write("Insira um valor em dolar: ");
